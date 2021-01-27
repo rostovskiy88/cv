@@ -1,0 +1,144 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.6rem;
+  line-height: 2;
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-family: "Montserrat", sans-serif;
+  margin: 16px auto;
+}
+
+h3 {
+  color: #11999e;
+  font-family: "Montserrat", sans-serif;
+  }
+
+  hr {
+    color: #11999e;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    width: 5em;
+    margin: 50px auto;
+  }
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 50px;  
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 10px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.img-cloud-top {
+  position: absolute;
+  right: 50em;
+  top: 50px;
+}
+
+.img-cloud-bot {
+  position: absolute;
+  left: 50em;
+  bottom: 300px;
+}
+
+.profilepic {
+  border-radius: 100%;
+  background-color: #66BFBF;
+  width:10%;
+  margin-top: 50px;
+}
+
+.anchor {
+  color: #074f52;
+  padding: 20px;
+  display: inline-block;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.img-skills-block {
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+
+.img-hobbies-block {
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+
+.BUTTON_TXT {
+  background: #66bfbf;
+  background-image: -webkit-linear-gradient(top, #66bfbf, #197a7a);
+  background-image: -moz-linear-gradient(top, #66bfbf, #197a7a);
+  background-image: -ms-linear-gradient(top, #66bfbf, #197a7a);
+  background-image: -o-linear-gradient(top, #66bfbf, #197a7a);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 30px;
+  font-weight: 300;
+  padding: 30px;
+  border: solid #000000 0;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin: 30px auto;
+}
+
+.BUTTON_TXT:hover {
+  border: solid #000000 1px;
+  background: #66bfbf;
+  background-image: -webkit-linear-gradient(top, #66bfbf, #66bfbf);
+  background-image: -moz-linear-gradient(top, #66bfbf, #66bfbf);
+  background-image: -ms-linear-gradient(top, #66bfbf, #66bfbf);
+  background-image: -o-linear-gradient(top, #66bfbf, #66bfbf);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+.vyrovnyat {
+  background: #ffffff;
+  padding: 2em 0;
+  text-align: center;
+}
+
+.back-button {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+  background-color: #66bfbf;
+  color: black;
+  border-radius: 20px;
+}
