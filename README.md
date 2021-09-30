@@ -1,1 +1,3 @@
-# my first CV (part of Web devepoper bootcamp)
+# my first CV
+
+https://rostovskiy88.github.io/cv/
